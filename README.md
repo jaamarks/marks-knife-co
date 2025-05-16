@@ -28,3 +28,4 @@ See Google Doc: `Taxes - Marks Co Business Expenses`
 - **Phone and Internet (business use %)**
 - **Trade Books**
 - **AC for Garage/Shop**
+- **packaging supplies:** twine, butcher paper, blade cover
