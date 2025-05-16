@@ -29,3 +29,4 @@ See Google Doc: `Taxes - Marks Co Business Expenses`
 - **Trade Books**
 - **AC for Garage/Shop**
 - **packaging supplies:** twine, butcher paper, blade cover
+- **Camping Trips to HCR:** set up a little booth to sharpen knives.
